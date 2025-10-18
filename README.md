@@ -1,5 +1,5 @@
 To run the demo version.
-1. Download the predicturl.py and classes.py files
+1. Download the predict_url.py and classes.py files
 2. Download the model weights from https://drive.google.com/file/d/1E61xCd3X7ddJE8eN4jclzvloCHpojQ62/view?usp=drive_link
 3. Run the predict_url.py file. 
 
